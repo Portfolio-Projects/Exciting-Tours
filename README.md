@@ -1,5 +1,5 @@
 # Exciting-Tours
-Responsive and modern site for booking tours for exciting locations around the world.
+Responsive and modern site for booking tours for exciting locations around the world. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Portfolio-Projects/Exciting-Tours/master/img/about.png">
 </p>
@@ -26,6 +26,3 @@ Responsive and modern site for booking tours for exciting locations around the w
 ```
         npm run start
 ```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Portfolio-Projects/Food-Recipes-Project/master/dist/img/FoodRecipes.gif">
-</p>
