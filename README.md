@@ -1,4 +1,4 @@
-# Exciting-Tours
+# Book Tours around the World
 Responsive and modern site for booking tours for exciting locations around the world. 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Portfolio-Projects/Exciting-Tours/master/img/about.png">
